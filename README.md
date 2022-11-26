@@ -31,7 +31,7 @@ This model can detect eyes in a video
 
 
 
-##Roadmap
+## Roadmap
 
 - This system is Based on Deep learning 
 
@@ -42,7 +42,7 @@ This model can detect eyes in a video
 - This model draws a shape around eyes
 
 
-##Used by
+## Used by
 
 This can be used in Biometrics
 
@@ -56,7 +56,7 @@ This can be used in Biometrics
 
 A model to detect any kind of motion in a video
 
-#Roadmap
+## Roadmap
 
 - This system is Based on Deep learning 
 
@@ -66,7 +66,7 @@ A model to detect any kind of motion in a video
 
 - This model draws a shape around moving objects persons or objects
 
-#Used by
+## Used by
 
 This can be used in traffic regualtory systems 
 
@@ -74,11 +74,11 @@ This can be used in traffic regualtory systems
 
 
 
-#Face Detection System
+# Face Mask Detection System
 
 This is a model to detect if a person is wearing a mask 
 
-#Roadmap
+## Roadmap
 
 - This system is Based on Deep learning 
 
@@ -88,7 +88,7 @@ This is a model to detect if a person is wearing a mask
 
 - This model indicates by different colors that if a person is wearing a mask or not 
 
-#Used by
+## Used by
 
 This is used at various system for safety regualtion
 
