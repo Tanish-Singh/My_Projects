@@ -1,6 +1,7 @@
 # Hotel Reviews System
 
-A brief description of what this project does and who it's for
+A model which tells about a review score according to customer feedback
+
 
 
 ## Roadmap
