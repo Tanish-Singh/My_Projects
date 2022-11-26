@@ -25,6 +25,56 @@ Is used in self driving cars
 
 
 
+# Eyes Detection
+
+This model can detect eyes in a video 
+
+
+
+##Roadmap
+
+- This system is Based on Deep learning 
+
+- Open-CV library is used
+
+- Data is live footage
+
+- This model draws a shape around eyes
+
+
+##Used by
+
+This can be used in Biometrics
+
+- Also this can be used by doctors for checking eyes
+
+- Automatic attendance system
+
+
+
+# Motion Detection
+
+A model to detect any kind of motion in a video
+
+#Roadmap
+
+- This system is Based on Deep learning 
+
+- Open-CV library is used
+
+- Data is live footage
+
+- This model draws a shape around moving objects persons or objects
+
+#Used by
+
+This can be used in traffic regualtory systems 
+
+- Also can be used by various graphic enhancment companies
+
+
+
+
 # Hotel Reviews System
 
 A model which tells about a review score according to customer feedback
