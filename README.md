@@ -74,6 +74,29 @@ This can be used in traffic regualtory systems
 
 
 
+#Face Detection System
+
+This is a model to detect if a person is wearing a mask 
+
+#Roadmap
+
+- This system is Based on Deep learning 
+
+- Open-CV library is used
+
+- Data is live footage
+
+- This model indicates by different colors that if a person is wearing a mask or not 
+
+#Used by
+
+This is used at various system for safety regualtion
+
+-Also can be used for auto challan generation by goverment 
+
+- Promotes safety 
+
+
 
 # Hotel Reviews System
 
