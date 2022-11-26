@@ -30,7 +30,7 @@ Is used in self driving cars
 
 This is a model to detect if a person is wearing a mask 
 
-## Roadmap
+## RoadMap
 
 - This system is Based on Deep learning 
 
@@ -57,7 +57,7 @@ This model can detect eyes in a video
 
 
 
-## Roadmap
+## RoadMap
 
 - This system is Based on Deep learning 
 
@@ -82,7 +82,7 @@ This can be used in Biometrics
 
 A model to detect any kind of motion in a video
 
-## Roadmap
+## RoadMap
 
 - This system is Based on Deep learning 
 
@@ -107,7 +107,7 @@ This model can detect Different shapes in a image
 
 
 
-## Roadmap
+## RoadMap
 
 - This system is Based on Deep learning 
 
@@ -130,7 +130,7 @@ A model which tells about a review score according to customer feedback
 
 
 
-## Roadmap
+## RoadMap
 
 - This System is Based on Data science
 
@@ -156,7 +156,7 @@ This project can be used in various Hotel ,Travelling ,or booking apps
 This is a regression model that predicts the life insurance price according to income and the person health
 
 
-## Roadmap
+## RoadMap
 
 - This System is Based on Machine Learning
 
@@ -180,7 +180,7 @@ This project can be used in various insurance companies and Banks
 This is a regression model that predicts the Car price according to Outdating of car and its remaining life
 
 
-## Roadmap
+## RoadMap
 
 - This System is Based on Machine Learning
 
