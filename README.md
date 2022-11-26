@@ -25,6 +25,32 @@ Is used in self driving cars
 
 
 
+
+# Face Mask Detection System
+
+This is a model to detect if a person is wearing a mask 
+
+## Roadmap
+
+- This system is Based on Deep learning 
+
+- Open-CV library is used
+
+- Data is live footage
+
+- This model indicates by different colors that if a person is wearing a mask or not 
+
+## Used by
+
+This is used at various system for safety regualtion
+
+-Also can be used for auto challan generation by goverment 
+
+- Promotes safety 
+
+
+
+
 # Eyes Detection
 
 This model can detect eyes in a video 
@@ -74,9 +100,12 @@ This can be used in traffic regualtory systems
 
 
 
-# Face Mask Detection System
 
-This is a model to detect if a person is wearing a mask 
+# Shapes Detection in a Image
+
+This model can detect Different shapes in a image
+
+
 
 ## Roadmap
 
@@ -84,17 +113,14 @@ This is a model to detect if a person is wearing a mask
 
 - Open-CV library is used
 
-- Data is live footage
+- Data is Image
 
-- This model indicates by different colors that if a person is wearing a mask or not 
+- This model draws the shape that is detected
+
 
 ## Used by
 
-This is used at various system for safety regualtion
-
--Also can be used for auto challan generation by goverment 
-
-- Promotes safety 
+This can be used in various teaching institutes
 
 
 
@@ -145,6 +171,32 @@ This is a regression model that predicts the life insurance price according to i
 ## Used By
 
 This project can be used in various insurance companies and Banks
+
+
+
+
+# Second hand car Price prediction
+
+This is a regression model that predicts the Car price according to Outdating of car and its remaining life
+
+
+## Roadmap
+
+- This System is Based on Machine Learning
+
+- Pandas,Numpy,SKlearn used
+
+- Data used is a file conatainig the prices of cars of various spans 
+
+- This Model returns a price reccomendation for a car 
+
+
+
+## Used By
+
+This project can be used in various vendors who sell and buy cars
+
+
 
 
 
