@@ -1,6 +1,4 @@
-# My_Projects
-
-Hotel Reviews 
+# Hotel Reviews 
 
 A brief description of what this project does and who it's for
 
