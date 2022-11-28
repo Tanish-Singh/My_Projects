@@ -8,7 +8,7 @@ payload = "{\n    \"task_id\": \"74f4c926-250c-43ca-9c53-453e87ceacd1\",\n    \"
 
 headers = {
     'content-type': "application/json",
-    'X-RapidAPI-Key': "6bf16b1a6fmsh0138bdf82af8ba9p169593jsn7732a7b8c59d",
+    'X-RapidAPI-Key': "xxxxxxxxxxxxxxxxxxxx",
     'X-RapidAPI-Host': "pan-card-verification1.p.rapidapi.com"
     }
 
