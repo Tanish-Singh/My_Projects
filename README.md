@@ -2,7 +2,7 @@
 
 
 
-# Parking Space ocuupancy predictor
+# Parking Space ocupancy predictor
 
 This Model Generate  the caption for different images
 
