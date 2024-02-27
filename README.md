@@ -2,7 +2,7 @@
 
 # Ovarian Cancer Stage Classifier
 
-Work done for a research paper to classify the ovarian cancer in medical science . I worked upon various models to get optimal use for use by a P.Hd scoholar for later on use
+Work done for a research basis to classify the ovarian cancer in medical science . I worked upon various models to get optimal use for use by a P.Hd scoholar for later on use
 
 
 
@@ -13,6 +13,18 @@ Work done for a research paper to classify the ovarian cancer in medical science
 
 - Used Matplotlib in order to visualize results and performance analysis for model usage
 
+
+# Engish to hindi and English to Hinglish Translation Model
+
+Transformers based language translation for mobile devices
+
+
+## RoadMap
+- Implementation transfer learning
+
+- Huggine Face, Tensorflow, Transformers
+
+- Natural Language Processing Tools
 
 
 
