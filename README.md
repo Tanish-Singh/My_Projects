@@ -1,6 +1,6 @@
 #Projects
 
-# Parking Space ocupancy predictor
+# Ovarian Cancer Stage Classifier
 
 Work done for a research paper to classify the ovarian cancer in medical science . I worked upon various models to get optimal use for use by a P.Hd scoholar for later on use
 
