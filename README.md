@@ -1,4 +1,19 @@
-#Image Procesing Projects
+#Projects
+
+# Parking Space ocupancy predictor
+
+Work done for a research paper to classify the ovarian cancer in medical science . I worked upon various models to get optimal use for use by a P.Hd scoholar for later on use
+
+
+
+## RoadMap
+- I used various model like InceptionResnet, Xception, MobileNet
+
+- Used Image correction and enhancment for better fittment of Machine Learning Models
+
+- Used Matplotlib in order to visualize results and performance analysis for model usage
+
+
 
 
 
